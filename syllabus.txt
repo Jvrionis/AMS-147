@@ -1,0 +1,55 @@
+Course Syllabus
+
+Instructor: Prof. Daniele Venturi (venturi AT ucsc.edu)
+
+Teaching Assistants: George Labaria (glabaria AT soe.ucsc.edu), 
+Yuanran Zhu (yzhu22 AT ucsc.edu)
+
+Main Lectures: MWF 12:00-1:05PM,  Thimann lecture hall 1
+
+Computer Sessions
+
+1) Monday (with G. Labaria), 7:10PM - 8:45PM, Thimann lecture hall 1
+2) Wednesday (with Prof. Venturi), 7:10PM - 8:45PM, Thimann lecture hall 1
+
+Office Hours 
+
+1) Prof. Venturi:   Wed 1:30-3:30PM, room 353B (Baskin 1), 
+2) George Labaria:  Tue 11AM-12PM, room 312 C/D (Baskin 1); 
+		    Thu 4-5PM, room 119 (Baskin 1) 
+3) Yuanran Zhu:     Wed 4-6PM, room 312 C/D (Baskin 1)
+
+Midterm: Feb 17th, 12:00-1:05PM, Thimann lecture hall 1
+
+Final: March 22nd, 12:00–3:00PM, Thimann lecture hall 1
+
+Purpose of the course: To introduce basic computational methods and 
+algorithms for solving mathematical problems that arise in different 
+areas of science and engineering. The emphasis will be on the analysis 
+and implementation of numerical algorithms using MATLAB or OCTAVE.    
+
+Course content: MATLAB basics, solution to nonlinear algebraic equations,
+approximation of functions and data, numerical differentiation and 
+integration, solution methods for linear systems, numerical methods 
+for ordinary differential equations
+
+Assessment: 50% homework assignments, 25% midterm (in class), 25% final 
+(in class). Final grades may be subject to adjustments based on 
+non-mandatory research projects, or final scientific colloquium 
+with the instructor.
+
+Textbook: 
+A. Quarteroni, F. Salieri and P. Gervasio, Scientific Computing 
+with MATLAB and Octave.
+
+Course Summary:
+ 
+Date	Details
+Wed Jan 25, 2017	 Homework 1	due by 11:59pm
+Wed Feb 1, 2017	 	 Homework 2	due by 11:59pm
+Thu Feb 9, 2017	 	 Homework 3	due by 11:59pm
+Fri Feb 17, 2017	 Midterm	due by 1:10pm
+Thu Feb 23, 2017	 Homework 4	due by 11:59pm
+Fri Mar 3, 2017	 	 Homework 5	due by 11:59pm
+Fri Mar 17, 2017	 Homework 6	due by 11:59pm
+			 Final Exam	 
